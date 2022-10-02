@@ -1,6 +1,6 @@
 # Tiny_C-Compiler
 
-This project was one of six practical projects provided by the basic lecture "Programming 2" at Saarland University in Summer Semester 2022. The lecture was hold by Prof. Dr. Sebastian Hack.
+This project was one of six practical projects provided by the basic lecture "Programming 2" at Saarland University in Summer Semester 2022. The lecture was held by Prof. Dr. Sebastian Hack.
 
 
 ### TinyC is a reduced version of C. The most notable restrictions and deviations with regard to C, mentioned in the project description(*), are:
