@@ -16,9 +16,12 @@ The main goal was to implement in java three phases of Tiny_C compilation, which
 2. assembly code generation
 3. generation of verification condition
 
-This means that the lexer and parser was provided by the teaching team
+This means that the lexer and parser was provided by the teaching team.
 
-There are also tests for each of these 3 phases, most of which were written by me, the rest by teaching team. 
+The implementations can be found in https://github.com/azazi1/TinyC-Compiler/tree/main/src/tinycc/implementation
+
+There are also tests for each of these 3 phases, most of which were written by me, the rest by teaching team.
+Those tests cn be found in https://github.com/azazi1/TinyC-Compiler/tree/main/src/tinycc/tests
 
 ______________________________________
 (*) https://cms.sic.saarland/prog2_22/dl/57/Compiler.pdf
