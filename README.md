@@ -4,10 +4,10 @@ This project was one of six practical projects provided by the basic lecture "Pr
 
 
 ### TinyC is a reduced version of C. The most notable restrictions and deviations with regard to C, mentioned in the project description(*), are:
-• There are only three built-in base types: char, int, and void. On top of that, the type constructor for pointers is defined. Functions are never arguments of type constructors.
-• There are no structs and unions.
-• Not all unary/binary operators are available.
-• A function may have at most four arguments.
+* There are only three built-in base types: char, int, and void. On top of that, the type constructor for pointers is defined. Functions are never arguments of type constructors.
+* There are no structs and unions.
+* Not all unary/binary operators are available.
+* A function may have at most four arguments.
 
 This high-level compiler translates the language Tiny_C to the low-level language "MIPS-assembly" using "syntax-directed code generation" technique and emits verification conditions for the correctness of the program.
 
